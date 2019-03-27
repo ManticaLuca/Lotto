@@ -10,7 +10,7 @@ public class Main {
     private static final Scanner scan = new Scanner(System.in);
 
     public static void main(String[] args) {
-        System.out.print("Inserire il numero di ruota da usare..");
+        System.out.print("Inserire il numero di ruota da usare.");
         int numRuote = scan.nextInt();
         while (numRuote <= 0) {
             System.err.println("Inserisci un numero maggiore > 0");
