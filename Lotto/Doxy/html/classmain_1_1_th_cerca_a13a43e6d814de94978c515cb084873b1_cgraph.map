@@ -1,0 +1,8 @@
+<map id="run" name="run">
+<area shape="rect" id="node2" href="$classmain_1_1_shared_data.html#a61e4168cef037c5305a703af0c3e5ce5" title="main.SharedData.getPunatatoUno" alt="" coords="101,5,320,32"/>
+<area shape="rect" id="node3" href="$classmain_1_1_shared_data.html#afe476c2ad5a76e2d77871f0cfe94b1fd" title="main.SharedData.getPuntatoDue" alt="" coords="105,56,317,83"/>
+<area shape="rect" id="node4" href="$classmain_1_1_shared_data.html#aa492c5b4f3fb55eb33f9c79b7b484d41" title="main.SharedData.getRuote" alt="" coords="121,107,300,133"/>
+<area shape="rect" id="node5" href="$classmain_1_1_shared_data.html#a113b8bd4e0520f7610c30c826d177898" title="main.SharedData.getEstrattoUno" alt="" coords="104,157,317,184"/>
+<area shape="rect" id="node6" href="$classmain_1_1_shared_data.html#a03babbf5685e678be2baebb70af3fc4e" title="main.SharedData.getEstrattoDue" alt="" coords="104,208,317,235"/>
+<area shape="rect" id="node7" href="$classmain_1_1_shared_data.html#ab9a75de14be42bfeb3654d44f09b20bf" title="main.SharedData.getFineSemaphore" alt="" coords="93,259,328,285"/>
+</map>
